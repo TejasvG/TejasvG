@@ -1,6 +1,6 @@
 # Tejasv Gupta
 
-Hello there! 👋 I'm Tejasv Gupta, a 13-year-old coding enthusiast. I have a passion for all things related to coding and computers. My ultimate goal is to become a skilled Software Engineer.
+Hello there! 👋 I'm Tejasv Gupta, a 14-year-old coding enthusiast. I have a passion for all things related to coding and computers. My ultimate goal is to become a skilled Software Engineer.
 
 ## About Me
 
